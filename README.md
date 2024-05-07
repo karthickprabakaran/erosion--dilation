@@ -62,15 +62,15 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-![9 1](https://github.com/KRISHNARAJ-D/Thresholdingg/assets/119559695/c508596f-87e6-44a0-bf9e-46e231ffbefe)
+![WhatsApp Image 2024-05-07 at 6 07 52 PM (1)](https://github.com/karthickprabakaran/erosion--dilation/assets/166775653/5e76c80c-5d0d-4ec1-b825-a0ee46e47ada)
 
 
 ### Display the Eroded Image
+![WhatsApp Image 2024-05-07 at 6 07 52 PM](https://github.com/karthickprabakaran/erosion--dilation/assets/166775653/05037c90-727e-440c-b4ad-f6e7f08b94d1)
 
-![9 2](https://github.com/KRISHNARAJ-D/Thresholdingg/assets/119559695/78bb1ab6-608d-4f0c-b0b1-4524395ff1af)
 
 ### Display the Dilated Image
-![9 3](https://github.com/KRISHNARAJ-D/Thresholdingg/assets/119559695/1a6a4d37-93c1-40d9-8238-13582260a072)
+![WhatsApp Image 2024-05-07 at 6 07 53 PM](https://github.com/karthickprabakaran/erosion--dilation/assets/166775653/7e4b68b7-24ce-46ef-8877-5e3db0c11aeb)
 
 
 ## Result
